@@ -31,8 +31,6 @@ Tool Used: ChatGPT + research on tools like Google Alerts & Brand24
 
 *OUTPUT
 
-https://github.com/wizardbells/digital-marketing/blob/main/Instagram_30_Day_Content_Calander(1).xlsx
 
-https://github.com/wizardbells/digital-marketing/blob/781ff4b629aaedb0c9c35d36f7eb7c83257a8254/TECHNOWORLD_Content_Marketing_Plan(1).docx
 
 
