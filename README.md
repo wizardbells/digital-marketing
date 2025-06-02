@@ -35,5 +35,7 @@ Tool Used: ChatGPT + research on tools like Google Alerts & Brand24
 
 [TECHNOWORLD_Content_Marketing_Plan.docx](https://github.com/user-attachments/files/20555823/TECHNOWORLD_Content_Marketing_Plan.docx)
 
+[TechnoWorld_SEO_Strategy_Plan.docx](https://github.com/user-attachments/files/20555834/TechnoWorld_SEO_Strategy_Plan.docx)
+
 
 
