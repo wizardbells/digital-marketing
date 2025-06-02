@@ -12,7 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
-## Task 1:30-Day Social Media Content Calendar
+## 
+Task 1:30-Day Social Media Content Calendar
 In first task i created a 30-day content calendar for TECHNOWORLD’s Instagram page. This included a mix of Reels, carousels, memes, product spotlights, and user-generated content (UGC). Each post was designed to boost engagement, highlight products, and educate the audience. The calendar maintained a consistent posting schedule and aligned with the brand’s tone and goals.
 Tool Used: Google + Chatgpt + Sheets
 
