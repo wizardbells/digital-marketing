@@ -33,5 +33,7 @@ Tool Used: ChatGPT + research on tools like Google Alerts & Brand24
 
 [Instagram_30_Day_Content_Calander(1).xlsx](https://github.com/user-attachments/files/20555768/Instagram_30_Day_Content_Calander.1.xlsx)
 
+[TECHNOWORLD_Content_Marketing_Plan.docx](https://github.com/user-attachments/files/20555823/TECHNOWORLD_Content_Marketing_Plan.docx)
+
 
 
