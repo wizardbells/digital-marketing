@@ -22,11 +22,11 @@ In the  second task i converted the strategy into a professional, actionable doc
 Tool Used: ChatGPT + Microsoft Word
 
 Task 3: SEO Strategy + Checklist:
-Coming to the third task i developed a complete SEO plan including keyword strategy, backlink-building, technical SEO, and local SEO. You also built a step-by-step checklist to ensure ongoing optimization and tracking.
+Coming to the third task i developed a complete SEO plan including keyword strategy, backlink-building, technical SEO, and local SEO. I also built a step-by-step checklist to ensure ongoing optimization and tracking.
 Tool Used: ChatGPT + SEO tools (Google Search Console and Google Analytic)
 
 Task 4: Brand Reputation Management:
-Fourth task was all about the strategy for monitoring, protecting, and improving TECHNOWORLD’s online reputation. This included review handling, social media tone guidelines, monitoring tools, and crisis response templates.
+Fourth and last task was all about the strategy for monitoring, protecting, and improving TECHNOWORLD’s online reputation. This included review handling, social media tone guidelines, monitoring tools, and crisis response templates.
 Tool Used: ChatGPT + research on tools like Google Alerts & Brand24
 
 *OUTPUT
